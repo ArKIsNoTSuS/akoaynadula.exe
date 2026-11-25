@@ -1,0 +1,9 @@
+[
+{"id":"c1","name":"Demo Review Center Manila","city":"Quezon City","region":"Metro Manila","mode":"Face-to-face","exams":["UPCAT","ACET","USTET","DCAT"],"desc":"Fictional demo listing: weekend face-to-face classes for Metro Manila exams.","address":null,"website":null},
+{"id":"c2","name":"Demo Review Center Cebu","city":"Cebu City","region":"Cebu","mode":"Face-to-face","exams":["UPCAT","USC Entrance Examination","UC Admission Examination"],"desc":"Fictional demo listing: small-group review for Cebu universities.","address":null,"website":null},
+{"id":"c3","name":"Demo Review Center Iloilo","city":"Iloilo City","region":"Iloilo","mode":"Face-to-face","exams":["WVSUCAT","ACET"],"desc":"Fictional demo listing: WVSUCAT-focused weekday classes.","address":null,"website":null},
+{"id":"c4","name":"Demo Review Center Bacolod","city":"Bacolod City","region":"Negros Occidental","mode":"Face-to-face","exams":["WVSUCAT","UPCAT"],"desc":"Fictional demo listing: Saturday review sessions.","address":null,"website":null},
+{"id":"c5","name":"Demo Review Center Davao","city":"Davao City","region":"Davao del Sur","mode":"Face-to-face","exams":["UPCAT","ACET"],"desc":"Fictional demo listing: Sunday intensive classes.","address":null,"website":null},
+{"id":"c6","name":"Demo Review Center Cagayan de Oro","city":"Cagayan de Oro","region":"Misamis Oriental","mode":"Face-to-face","exams":["UPCAT","USTET"],"desc":"Fictional demo listing: evening classes for working students.","address":null,"website":null},
+{"id":"c7","name":"Demo Online Review Hub","city":"Online","region":"Nationwide","mode":"Online","exams":["UPCAT","ACET","USTET","DCAT","WVSUCAT"],"desc":"Fictional demo listing: self-paced lessons with live Q&A, open to students anywhere.","address":null,"website":null}
+]

@@ -1,0 +1,14 @@
+{
+"math":{"title":"Math Practice Quiz","questions":[
+{"q":"If 3x + 5 = 20, what is x?","options":["3","5","7","15"],"answer":1,"explain":"Subtract 5 to get 3x = 15, then divide by 3: x = 5."},
+{"q":"What is the area of a triangle with base 10 and height 6?","options":["16","30","60","36"],"answer":1,"explain":"Area = ½ × 10 × 6 = 30."},
+{"q":"What is 15% of 80?","options":["10","12","15","8"],"answer":1,"explain":"0.15 × 80 = 12."}]},
+"english":{"title":"English Practice Quiz","questions":[
+{"q":"Neither of the answers ___ correct.","options":["are","is","were","be"],"answer":1,"explain":"“Neither” is singular, so it takes “is”."},
+{"q":"Which word is closest in meaning to “meticulous”?","options":["careless","careful","quick","loud"],"answer":1,"explain":"Meticulous means showing great attention to detail."},
+{"q":"The committee ___ its decision yesterday.","options":["announced","announce","announcing","will announced"],"answer":0,"explain":"“Yesterday” signals past tense: announced."}]},
+"abstract":{"title":"Abstract Reasoning Quiz","questions":[
+{"q":"2, 4, 8, 16, ?","options":["24","30","32","36"],"answer":2,"explain":"Each term doubles: 16 × 2 = 32."},
+{"q":"A, C, E, G, ?","options":["H","I","J","K"],"answer":1,"explain":"The pattern skips one letter each time: after G comes I."},
+{"q":"Which is the odd one out: circle, square, triangle, cube?","options":["circle","square","triangle","cube"],"answer":3,"explain":"A cube is three-dimensional; the others are flat shapes."}]}
+}

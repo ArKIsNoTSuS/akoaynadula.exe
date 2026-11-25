@@ -1,0 +1,9 @@
+[
+{"id":"upcat","uni":"University of the Philippines","name":"UPCAT","opens":"2027-06-01","deadline":"2027-07-15","exam":"2027-08-07","site":"https://up.edu.ph","demo":true},
+{"id":"acet","uni":"Ateneo de Manila University","name":"ACET","opens":"2026-09-01","deadline":"2026-11-10","exam":"2026-12-05","site":"https://www.ateneo.edu","demo":true},
+{"id":"ustet","uni":"University of Santo Tomas","name":"USTET","opens":"2026-10-01","deadline":"2027-01-15","exam":"2027-02-20","site":"https://www.ust.edu.ph","demo":true},
+{"id":"dcat","uni":"De La Salle University","name":"DCAT","opens":"2026-11-01","deadline":"2027-02-28","exam":"2027-03-27","site":"https://www.dlsu.edu.ph","demo":true},
+{"id":"wvsucat","uni":"West Visayas State University","name":"WVSUCAT","opens":"2026-11-02","deadline":"2027-01-31","exam":"2027-03-06","site":"https://www.wvsu.edu.ph","demo":true},
+{"id":"usc","uni":"University of San Carlos","name":"USC Entrance Examination","opens":"2026-12-01","deadline":"2027-03-15","exam":"2027-04-10","site":"https://www.usc.edu.ph","demo":true},
+{"id":"uc","uni":"University of Cebu","name":"UC Admission Examination","opens":"2027-01-04","deadline":"2027-04-30","exam":"2027-05-22","site":"https://www.uc.edu.ph","demo":true}
+]
